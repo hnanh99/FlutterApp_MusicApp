@@ -57,3 +57,4 @@ flutter run
 + Phát triển chức năng **phát trong nền**
 + Test ứng dụng và kiểm tra lỗi
 
+## Source: https://github.com/lephamcong/group_4_music_player_app
